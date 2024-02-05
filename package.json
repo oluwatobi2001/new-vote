@@ -271,8 +271,9 @@
   },
   "scripts": {
     "test": "node",
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
   },
-  "author": "",
+  "author": "Oluwatobi",
   "license": "ISC"
 }
